@@ -6,7 +6,7 @@
 
 # Deprecated
 
-This library is deprecated in favor of the new [Design Support Library](http://developer.android.com/tools/support-library/features.html#design) which includes a [Snackbar](http://developer.android.com/reference/android/support/design/widget/Snackbar.html). It is due to this development that this library is no longer activly being developed.
+This library is deprecated in favor of the new [Design Support Library](http://developer.android.com/tools/support-library/features.html#design) which includes a [Snackbar](http://developer.android.com/reference/android/support/design/widget/Snackbar.html). It is due to this development that this library is no longer actively being developed.
 
 # Features
 
